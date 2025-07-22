@@ -1,0 +1,48 @@
+body {
+    background-color: #ded9ee;
+    padding-top: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+#loginpage {
+    text-align: center;
+    padding: 50px;
+    background-color: aliceblue;
+}
+
+#user {
+    margin: 20px;
+    width: 200px;
+    height: 30px;
+}
+
+#pass {
+    width: 200px;
+    margin: 10px;
+    height: 30px;
+}
+
+
+#btn {
+    margin: 20px;
+    width: 100px;
+    height: 30PX;
+    background-color: #ded9ee;
+
+}
+
+h2 {
+    font-size: 40px;
+    margin-top: 0px;
+    margin-bottom: 30px;
+    padding: 0%;
+}
+
+.error {
+    margin: 0px;
+    text-align: left;
+    color: red;
+}
